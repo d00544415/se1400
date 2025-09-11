@@ -14,5 +14,41 @@ header {
 header h1 {
 
     line-height: 140%;
+    padding: 5rem;
+}
+
+nav {
+
+    background-color: #F3F3F3;
+    font-weight: bold;
+}
+
+h2 {
+    color: #424242 font: georgia, sherif;
+}
+
+dt {
+    color: #003058;
+    font: bold
+}
+
+
+.ut {
+    color: #BA1C21;
+    font: bold
+}
+
+footer {
+    size: 70rem;
+    font: italic, center;
+}
+
+#wrapper {
+    background-color: #780606;
+    padding: 20px;
+    margin-right: 80%;
+    margin-left: auto;
 
 }
+
+
