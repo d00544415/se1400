@@ -10,7 +10,8 @@ body {
 
 header a {
     color: #FFFFFF;
-    text-decoration: none; /* I added this line to remove the underline from the link in the header. This is not in the homework. */
+    text-decoration: none; /* I added this line to remove the underline from the link in the header.
+     This is not in the homework. */
 }
 
 
